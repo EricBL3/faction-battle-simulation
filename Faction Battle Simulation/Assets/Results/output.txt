@@ -1,0 +1,1163 @@
+A new battle between 7 factions is about to start!
+The initial stats are:
+
+		1		2		3		4		5		6		7		
+1		0		0.26	0.62	0.11	0.01	0		0		
+2		0.63	0		0.26	0.04	0.01	0.01	0.05	
+3		0.3		0.06	0		0.6		0.01	0.02	0.01	
+4		0.9		0.09	0		0		0.01	0		0		
+5		0.76	0.09	0.05	0.05	0		0		0.05	
+6		0.46	0.39	0.08	0.02	0.02	0		0.03	
+7		0.11	0.09	0.72	0.03	0.03	0.02	0
+
+Number of warriors for each faction
+Faction 1: 12
+Faction 2: 13
+Faction 3: 14
+Faction 4: 10
+Faction 5: 10
+Faction 6: 5
+Faction 7: 3
+====================================
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 11
+Faction 2: 13
+Faction 3: 14
+Faction 4: 10
+Faction 5: 10
+Faction 6: 5
+Faction 7: 3
+
+Faction 6 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 10
+Faction 2: 13
+Faction 3: 14
+Faction 4: 10
+Faction 5: 10
+Faction 6: 5
+Faction 7: 3
+
+Faction 5 attacked Faction 4!
+Number of warriors for each faction
+Faction 1: 10
+Faction 2: 13
+Faction 3: 14
+Faction 4: 9
+Faction 5: 10
+Faction 6: 5
+Faction 7: 3
+
+Faction 3 attacked Faction 6!
+Number of warriors for each faction
+Faction 1: 10
+Faction 2: 13
+Faction 3: 14
+Faction 4: 9
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 2 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 10
+Faction 2: 13
+Faction 3: 13
+Faction 4: 9
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 7 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 10
+Faction 2: 13
+Faction 3: 12
+Faction 4: 9
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 3 attacked Faction 4!
+Number of warriors for each faction
+Faction 1: 10
+Faction 2: 13
+Faction 3: 12
+Faction 4: 8
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 6 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 9
+Faction 2: 13
+Faction 3: 12
+Faction 4: 8
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 7 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 9
+Faction 2: 12
+Faction 3: 12
+Faction 4: 8
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 7 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 9
+Faction 2: 12
+Faction 3: 11
+Faction 4: 8
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 4 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 8
+Faction 2: 12
+Faction 3: 11
+Faction 4: 8
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 3 attacked Faction 4!
+Number of warriors for each faction
+Faction 1: 8
+Faction 2: 12
+Faction 3: 11
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 2 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 8
+Faction 2: 12
+Faction 3: 10
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 6 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 8
+Faction 2: 11
+Faction 3: 10
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 7
+Faction 2: 11
+Faction 3: 10
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 7
+Faction 2: 11
+Faction 3: 9
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 6 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 7
+Faction 2: 10
+Faction 3: 9
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 5 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 6
+Faction 2: 10
+Faction 3: 9
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 2 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 6
+Faction 2: 10
+Faction 3: 8
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 6
+Faction 2: 10
+Faction 3: 7
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 6
+Faction 2: 10
+Faction 3: 6
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 6
+Faction 2: 10
+Faction 3: 5
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 5 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 5
+Faction 2: 10
+Faction 3: 5
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 5
+Faction 2: 10
+Faction 3: 4
+Faction 4: 7
+Faction 5: 10
+Faction 6: 4
+Faction 7: 3
+
+Faction 3 attacked Faction 6!
+Number of warriors for each faction
+Faction 1: 5
+Faction 2: 10
+Faction 3: 4
+Faction 4: 7
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 4 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 4
+Faction 2: 10
+Faction 3: 4
+Faction 4: 7
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 7 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 4
+Faction 2: 10
+Faction 3: 3
+Faction 4: 7
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 7 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 4
+Faction 2: 10
+Faction 3: 2
+Faction 4: 7
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 7 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 4
+Faction 2: 10
+Faction 3: 1
+Faction 4: 7
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 5 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 4
+Faction 2: 10
+Faction 4: 7
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 3 is annihilated!
+
+====================================
+Reconfiguring stochastic matrix
+		1		2		4		5		6		7		
+1		0		0.51	0.03	0.4		0.03	0.03	
+2		0.57	0		0.43	0		0		0		
+4		0.49	0.44	0		0.04	0.02	0.01	
+5		0.93	0.06	0		0		0.01	0		
+6		0.59	0.1		0.06	0.01	0		0.24	
+7		0.35	0.56	0.02	0.06	0.01	0
+
+Faction 7 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 3
+Faction 2: 10
+Faction 4: 7
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 5 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 2
+Faction 2: 10
+Faction 4: 7
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 6 attacked Faction 4!
+Number of warriors for each faction
+Faction 1: 2
+Faction 2: 10
+Faction 4: 6
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 4 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 2
+Faction 2: 9
+Faction 4: 6
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 5 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 1
+Faction 2: 9
+Faction 4: 6
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 7 attacked Faction 4!
+Number of warriors for each faction
+Faction 1: 1
+Faction 2: 9
+Faction 4: 5
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 4 attacked Faction 1!
+Number of warriors for each faction
+Faction 2: 9
+Faction 4: 5
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 1 is annihilated!
+
+====================================
+Reconfiguring stochastic matrix
+		2		4		5		6		7		
+2		0		0.79	0.14	0.06	0.01	
+4		0.37	0		0.54	0.06	0.03	
+5		0.5		0.28	0		0.08	0.14	
+6		0.38	0.47	0.06	0		0.09	
+7		0.78	0.07	0.02	0.13	0
+
+Faction 4 attacked Faction 2!
+Number of warriors for each faction
+Faction 2: 8
+Faction 4: 5
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 7 attacked Faction 2!
+Number of warriors for each faction
+Faction 2: 7
+Faction 4: 5
+Faction 5: 10
+Faction 6: 3
+Faction 7: 3
+
+Faction 4 attacked Faction 5!
+Number of warriors for each faction
+Faction 2: 7
+Faction 4: 5
+Faction 5: 9
+Faction 6: 3
+Faction 7: 3
+
+Faction 4 attacked Faction 5!
+Number of warriors for each faction
+Faction 2: 7
+Faction 4: 5
+Faction 5: 8
+Faction 6: 3
+Faction 7: 3
+
+Faction 2 attacked Faction 4!
+Number of warriors for each faction
+Faction 2: 7
+Faction 4: 4
+Faction 5: 8
+Faction 6: 3
+Faction 7: 3
+
+Faction 2 attacked Faction 4!
+Number of warriors for each faction
+Faction 2: 7
+Faction 4: 3
+Faction 5: 8
+Faction 6: 3
+Faction 7: 3
+
+Faction 5 attacked Faction 4!
+Number of warriors for each faction
+Faction 2: 7
+Faction 4: 2
+Faction 5: 8
+Faction 6: 3
+Faction 7: 3
+
+Faction 4 attacked Faction 5!
+Number of warriors for each faction
+Faction 2: 7
+Faction 4: 2
+Faction 5: 7
+Faction 6: 3
+Faction 7: 3
+
+Faction 2 attacked Faction 4!
+Number of warriors for each faction
+Faction 2: 7
+Faction 4: 1
+Faction 5: 7
+Faction 6: 3
+Faction 7: 3
+
+Faction 5 attacked Faction 6!
+Number of warriors for each faction
+Faction 2: 7
+Faction 4: 1
+Faction 5: 7
+Faction 6: 2
+Faction 7: 3
+
+Faction 5 attacked Faction 2!
+Number of warriors for each faction
+Faction 2: 6
+Faction 4: 1
+Faction 5: 7
+Faction 6: 2
+Faction 7: 3
+
+Faction 2 attacked Faction 4!
+Number of warriors for each faction
+Faction 2: 6
+Faction 5: 7
+Faction 6: 2
+Faction 7: 3
+
+Faction 4 is annihilated!
+
+====================================
+Reconfiguring stochastic matrix
+		2		5		6		7		
+2		0		0.68	0.21	0.11	
+5		0.77	0		0.2		0.03	
+6		0.88	0.12	0		0		
+7		0.16	0.77	0.07	0
+
+Faction 6 attacked Faction 2!
+Number of warriors for each faction
+Faction 2: 5
+Faction 5: 7
+Faction 6: 2
+Faction 7: 3
+
+Faction 5 attacked Faction 2!
+Number of warriors for each faction
+Faction 2: 4
+Faction 5: 7
+Faction 6: 2
+Faction 7: 3
+
+Faction 5 attacked Faction 2!
+Number of warriors for each faction
+Faction 2: 3
+Faction 5: 7
+Faction 6: 2
+Faction 7: 3
+
+Faction 5 attacked Faction 2!
+Number of warriors for each faction
+Faction 2: 2
+Faction 5: 7
+Faction 6: 2
+Faction 7: 3
+
+Faction 5 attacked Faction 2!
+Number of warriors for each faction
+Faction 2: 1
+Faction 5: 7
+Faction 6: 2
+Faction 7: 3
+
+Faction 6 attacked Faction 2!
+Number of warriors for each faction
+Faction 5: 7
+Faction 6: 2
+Faction 7: 3
+
+Faction 2 is annihilated!
+
+====================================
+Reconfiguring stochastic matrix
+		5		6		7		
+5		0		0.87	0.13	
+6		0.87	0		0.13	
+7		0.08	0.92	0
+
+Faction 7 attacked Faction 6!
+Number of warriors for each faction
+Faction 5: 7
+Faction 6: 1
+Faction 7: 3
+
+Faction 5 attacked Faction 6!
+Number of warriors for each faction
+Faction 5: 7
+Faction 7: 3
+
+Faction 6 is annihilated!
+
+====================================
+Reconfiguring stochastic matrix
+		5		7		
+5		0		1		
+7		1		0
+
+Faction 7 attacked Faction 5!
+Number of warriors for each faction
+Faction 5: 6
+Faction 7: 3
+
+Faction 5 attacked Faction 7!
+Number of warriors for each faction
+Faction 5: 6
+Faction 7: 2
+
+Faction 5 attacked Faction 7!
+Number of warriors for each faction
+Faction 5: 6
+Faction 7: 1
+
+Faction 5 attacked Faction 7!
+Number of warriors for each faction
+Faction 5: 6
+
+Faction 7 is annihilated!
+
+====================================
+Faction 5 is the winner!
+====================================
+
+A new battle between 3 factions is about to start!
+The initial stats are:
+
+		1		2		3		
+1		0		0.2		0.8		
+2		0.9		0		0.1		
+3		0.35	0.65	0
+
+Number of warriors for each faction
+Faction 1: 40
+Faction 2: 20
+Faction 3: 34
+====================================
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 40
+Faction 2: 20
+Faction 3: 33
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 39
+Faction 2: 20
+Faction 3: 33
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 38
+Faction 2: 20
+Faction 3: 33
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 38
+Faction 2: 20
+Faction 3: 32
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 37
+Faction 2: 20
+Faction 3: 32
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 37
+Faction 2: 19
+Faction 3: 32
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 36
+Faction 2: 19
+Faction 3: 32
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 36
+Faction 2: 19
+Faction 3: 31
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 35
+Faction 2: 19
+Faction 3: 31
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 35
+Faction 2: 18
+Faction 3: 31
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 35
+Faction 2: 17
+Faction 3: 31
+
+Faction 1 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 35
+Faction 2: 16
+Faction 3: 31
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 35
+Faction 2: 16
+Faction 3: 30
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 35
+Faction 2: 15
+Faction 3: 30
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 35
+Faction 2: 15
+Faction 3: 29
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 34
+Faction 2: 15
+Faction 3: 29
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 33
+Faction 2: 15
+Faction 3: 29
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 32
+Faction 2: 15
+Faction 3: 29
+
+Faction 2 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 32
+Faction 2: 15
+Faction 3: 28
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 32
+Faction 2: 15
+Faction 3: 27
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 32
+Faction 2: 15
+Faction 3: 26
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 32
+Faction 2: 14
+Faction 3: 26
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 32
+Faction 2: 13
+Faction 3: 26
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 31
+Faction 2: 13
+Faction 3: 26
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 31
+Faction 2: 12
+Faction 3: 26
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 31
+Faction 2: 12
+Faction 3: 25
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 31
+Faction 2: 12
+Faction 3: 24
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 30
+Faction 2: 12
+Faction 3: 24
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 30
+Faction 2: 11
+Faction 3: 24
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 30
+Faction 2: 11
+Faction 3: 23
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 30
+Faction 2: 11
+Faction 3: 22
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 30
+Faction 2: 11
+Faction 3: 21
+
+Faction 1 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 30
+Faction 2: 10
+Faction 3: 21
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 29
+Faction 2: 10
+Faction 3: 21
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 28
+Faction 2: 10
+Faction 3: 21
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 27
+Faction 2: 10
+Faction 3: 21
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 27
+Faction 2: 10
+Faction 3: 20
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 26
+Faction 2: 10
+Faction 3: 20
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 25
+Faction 2: 10
+Faction 3: 20
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 25
+Faction 2: 10
+Faction 3: 19
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 24
+Faction 2: 10
+Faction 3: 19
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 24
+Faction 2: 9
+Faction 3: 19
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 24
+Faction 2: 9
+Faction 3: 18
+
+Faction 2 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 24
+Faction 2: 9
+Faction 3: 17
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 24
+Faction 2: 9
+Faction 3: 16
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 23
+Faction 2: 9
+Faction 3: 16
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 22
+Faction 2: 9
+Faction 3: 16
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 22
+Faction 2: 9
+Faction 3: 15
+
+Faction 1 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 22
+Faction 2: 8
+Faction 3: 15
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 21
+Faction 2: 8
+Faction 3: 15
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 21
+Faction 2: 8
+Faction 3: 14
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 20
+Faction 2: 8
+Faction 3: 14
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 20
+Faction 2: 8
+Faction 3: 13
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 20
+Faction 2: 8
+Faction 3: 12
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 19
+Faction 2: 8
+Faction 3: 12
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 19
+Faction 2: 7
+Faction 3: 12
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 19
+Faction 2: 7
+Faction 3: 11
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 18
+Faction 2: 7
+Faction 3: 11
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 18
+Faction 2: 7
+Faction 3: 10
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 18
+Faction 2: 7
+Faction 3: 9
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 18
+Faction 2: 7
+Faction 3: 8
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 17
+Faction 2: 7
+Faction 3: 8
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 16
+Faction 2: 7
+Faction 3: 8
+
+Faction 1 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 16
+Faction 2: 6
+Faction 3: 8
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 16
+Faction 2: 6
+Faction 3: 7
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 16
+Faction 2: 5
+Faction 3: 7
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 16
+Faction 2: 5
+Faction 3: 6
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 16
+Faction 2: 4
+Faction 3: 6
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 15
+Faction 2: 4
+Faction 3: 6
+
+Faction 2 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 15
+Faction 2: 4
+Faction 3: 5
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 15
+Faction 2: 4
+Faction 3: 4
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 15
+Faction 2: 3
+Faction 3: 4
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 14
+Faction 2: 3
+Faction 3: 4
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 13
+Faction 2: 3
+Faction 3: 4
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 12
+Faction 2: 3
+Faction 3: 4
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 11
+Faction 2: 3
+Faction 3: 4
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 10
+Faction 2: 3
+Faction 3: 4
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 10
+Faction 2: 2
+Faction 3: 4
+
+Faction 1 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 10
+Faction 2: 1
+Faction 3: 4
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 9
+Faction 2: 1
+Faction 3: 4
+
+Faction 2 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 8
+Faction 2: 1
+Faction 3: 4
+
+Faction 3 attacked Faction 2!
+Number of warriors for each faction
+Faction 1: 8
+Faction 3: 4
+
+Faction 2 is annihilated!
+
+====================================
+Reconfiguring stochastic matrix
+		1		3		
+1		0		1		
+3		1		0
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 7
+Faction 3: 4
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 6
+Faction 3: 4
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 6
+Faction 3: 3
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 5
+Faction 3: 3
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 5
+Faction 3: 2
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 5
+Faction 3: 1
+
+Faction 3 attacked Faction 1!
+Number of warriors for each faction
+Faction 1: 4
+Faction 3: 1
+
+Faction 1 attacked Faction 3!
+Number of warriors for each faction
+Faction 1: 4
+
+Faction 3 is annihilated!
+
+====================================
+Faction 1 is the winner!
+====================================
+
